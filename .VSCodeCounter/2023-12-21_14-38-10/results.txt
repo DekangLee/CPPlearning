@@ -1,0 +1,161 @@
+Date : 2023-12-21 14:38:10
+Directory : e:\project-C++\CPPlearning
+Total : 114 files,  4623 codes, 4569 comments, 197 blanks, all 9389 lines
+
+Languages
++--------------+------------+------------+------------+------------+------------+
+| language     | files      | code       | comment    | blank      | total      |
++--------------+------------+------------+------------+------------+------------+
+| C++          |        100 |      4,557 |      4,569 |        186 |      9,312 |
+| Shell Script |          1 |         32 |          0 |          1 |         33 |
+| TXT          |         10 |         31 |          0 |          7 |         38 |
+| XSL          |          1 |          3 |          0 |          1 |          4 |
+| CSV          |          2 |          0 |          0 |          2 |          2 |
++--------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |        114 |      4,623 |      4,569 |        197 |      9,389 |
+| . (Files)                                                                          |         15 |        106 |          1 |         11 |        118 |
+| Deep_copy                                                                          |          4 |         27 |        214 |         15 |        256 |
+| EmployeeManagementSystem                                                           |         10 |        714 |         24 |         11 |        749 |
+| FileOperating                                                                      |          2 |        104 |         84 |          7 |        195 |
+| Function_overloading                                                               |          2 |         48 |         82 |          3 |        133 |
+| Function_study                                                                     |          6 |         24 |        100 |          4 |        128 |
+| NewFeature                                                                         |          4 |         47 |        152 |          7 |        206 |
+| Operator overloading                                                               |          4 |        162 |        188 |         10 |        360 |
+| RoomReservationSystem                                                              |         13 |      1,634 |         90 |         15 |      1,739 |
+| STLStudy                                                                           |         15 |        174 |      1,544 |         14 |      1,732 |
+| STL_Algorithm                                                                      |          5 |        191 |        411 |          3 |        605 |
+| SpeechContestSystem                                                                |          4 |        431 |         30 |          6 |        467 |
+| TemplateLearning                                                                   |          7 |        461 |        603 |         18 |      1,082 |
+| class_learn                                                                        |          7 |        112 |         99 |         27 |        238 |
+| friend                                                                             |          1 |         79 |          3 |          7 |         89 |
+| inherit_learning                                                                   |          4 |          0 |        409 |         16 |        425 |
+| polymorphic                                                                        |          6 |        125 |        402 |         14 |        541 |
+| reference_learn                                                                    |          1 |        133 |         40 |          1 |        174 |
+| struct-study                                                                       |          4 |         51 |         93 |          8 |        152 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| filename                                                                           | language     | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| e:\project-C++\CPPlearning\AdminFlie.txt                                           | TXT          |          1 |          0 |          0 |          1 |
+| e:\project-C++\CPPlearning\Deep_copy\const_member.cpp                              | C++          |         27 |          1 |          1 |         29 |
+| e:\project-C++\CPPlearning\Deep_copy\deep_copy.cpp                                 | C++          |          0 |        103 |          6 |        109 |
+| e:\project-C++\CPPlearning\Deep_copy\member_and_fun.cpp                            | C++          |          0 |         65 |          6 |         71 |
+| e:\project-C++\CPPlearning\Deep_copy\static_Person.cpp                             | C++          |          0 |         45 |          2 |         47 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\Boss.cpp                       | C++          |         15 |          0 |          0 |         15 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\Boss.h                         | C++          |         12 |          0 |          0 |         12 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\EmployeeManagementSystem.cpp   | C++          |         52 |          9 |          3 |         64 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\employee.cpp                   | C++          |         15 |          0 |          0 |         15 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\employee.h                     | C++          |         12 |          0 |          0 |         12 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\manager.cpp                    | C++          |         15 |          0 |          0 |         15 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\manager.h                      | C++          |         12 |          0 |          0 |         12 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\workManager.cpp                | C++          |        536 |         15 |          8 |        559 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\workManager.h                  | C++          |         32 |          0 |          0 |         32 |
+| e:\project-C++\CPPlearning\EmployeeManagementSystem\worker.h                       | C++          |         13 |          0 |          0 |         13 |
+| e:\project-C++\CPPlearning\FileOperating\FileOperating.cpp                         | C++          |        104 |         41 |          4 |        149 |
+| e:\project-C++\CPPlearning\FileOperating\regexTest.cpp                             | C++          |          0 |         43 |          3 |         46 |
+| e:\project-C++\CPPlearning\Function_overloading\Function _overloading.cpp          | C++          |          0 |         75 |          2 |         77 |
+| e:\project-C++\CPPlearning\Function_overloading\functionPoint.cpp                  | C++          |         48 |          7 |          1 |         56 |
+| e:\project-C++\CPPlearning\Function_study\bubble-sort.cpp                          | C++          |          0 |         38 |          1 |         39 |
+| e:\project-C++\CPPlearning\Function_study\compare.cpp                              | C++          |         16 |          2 |          0 |         18 |
+| e:\project-C++\CPPlearning\Function_study\cpsource.cpp                             | C++          |          6 |          0 |          2 |          8 |
+| e:\project-C++\CPPlearning\Function_study\max.h                                    | C++          |          2 |          0 |          0 |          2 |
+| e:\project-C++\CPPlearning\Function_study\second.cpp                               | C++          |          0 |         41 |          1 |         42 |
+| e:\project-C++\CPPlearning\Function_study\test.cpp                                 | C++          |          0 |         19 |          0 |         19 |
+| e:\project-C++\CPPlearning\Hanoi.cpp                                               | C++          |         40 |          1 |          0 |         41 |
+| e:\project-C++\CPPlearning\NewFeature\Lambda.cpp                                   | C++          |          0 |         45 |          3 |         48 |
+| e:\project-C++\CPPlearning\NewFeature\abnormal.cpp                                 | C++          |          0 |         24 |          2 |         26 |
+| e:\project-C++\CPPlearning\NewFeature\auto.cpp                                     | C++          |         47 |         35 |          1 |         83 |
+| e:\project-C++\CPPlearning\NewFeature\enumerate.cpp                                | C++          |          0 |         48 |          1 |         49 |
+| e:\project-C++\CPPlearning\Operator overloading\AssignmentOperator_overload.cpp    | C++          |        162 |          3 |          6 |        171 |
+| e:\project-C++\CPPlearning\Operator overloading\IncreasingOperator_overloading.cpp | C++          |          0 |         75 |          4 |         79 |
+| e:\project-C++\CPPlearning\Operator overloading\addOperator_overloading.cpp        | C++          |          0 |         49 |          0 |         49 |
+| e:\project-C++\CPPlearning\Operator overloading\leftOperrator_overloading.cpp      | C++          |          0 |         61 |          0 |         61 |
+| e:\project-C++\CPPlearning\OrderFile.txt                                           | TXT          |          1 |          0 |          1 |          2 |
+| e:\project-C++\CPPlearning\Person.txt                                              | TXT          |          1 |          0 |          0 |          1 |
+| e:\project-C++\CPPlearning\RoomFile.txt                                            | TXT          |          3 |          0 |          0 |          3 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\RoomReserveSys.cpp                | C++          |        220 |         17 |          2 |        239 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\administrator.cpp                 | C++          |        617 |         16 |          3 |        636 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\administrator.h                   | C++          |         36 |          9 |          0 |         45 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\computerRoom.cpp                  | C++          |         27 |          0 |          1 |         28 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\computerRoom.h                    | C++          |         17 |          0 |          1 |         18 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\globalFile.h                      | C++          |          5 |          5 |          0 |         10 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\identity.h                        | C++          |         14 |          0 |          0 |         14 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\orderReserve.cpp                  | C++          |         66 |         14 |          0 |         80 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\orderReserve.h                    | C++          |         17 |          4 |          1 |         22 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\student.cpp                       | C++          |        373 |         18 |          3 |        394 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\student.h                         | C++          |         27 |          3 |          0 |         30 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\teacher.cpp                       | C++          |        196 |          2 |          3 |        201 |
+| e:\project-C++\CPPlearning\RoomReservationSystem\teacher.h                         | C++          |         19 |          2 |          1 |         22 |
+| e:\project-C++\CPPlearning\STLStudy\Case1.cpp                                      | C++          |          0 |        118 |          1 |        119 |
+| e:\project-C++\CPPlearning\STLStudy\ObjectFunction.cpp                             | C++          |          0 |         75 |          0 |         75 |
+| e:\project-C++\CPPlearning\STLStudy\STLCase.cpp                                    | C++          |          0 |         90 |          1 |         91 |
+| e:\project-C++\CPPlearning\STLStudy\STL_first.cpp                                  | C++          |          0 |         68 |          0 |         68 |
+| e:\project-C++\CPPlearning\STLStudy\StringLearnig.cpp                              | C++          |        174 |         39 |          2 |        215 |
+| e:\project-C++\CPPlearning\STLStudy\commen.hpp                                     | C++          |          0 |         17 |          0 |         17 |
+| e:\project-C++\CPPlearning\STLStudy\dequeLearning.cpp                              | C++          |          0 |        160 |          2 |        162 |
+| e:\project-C++\CPPlearning\STLStudy\insightFuncOBJ.cpp                             | C++          |          0 |         72 |          1 |         73 |
+| e:\project-C++\CPPlearning\STLStudy\listCase.cpp                                   | C++          |          0 |         56 |          0 |         56 |
+| e:\project-C++\CPPlearning\STLStudy\listLearning.cpp                               | C++          |          0 |        110 |          1 |        111 |
+| e:\project-C++\CPPlearning\STLStudy\map_multimap.cpp                               | C++          |          0 |        163 |          2 |        165 |
+| e:\project-C++\CPPlearning\STLStudy\predicate.cpp                                  | C++          |          0 |         86 |          1 |         87 |
+| e:\project-C++\CPPlearning\STLStudy\set_multiset.cpp                               | C++          |          0 |        195 |          0 |        195 |
+| e:\project-C++\CPPlearning\STLStudy\stackLearning.cpp                              | C++          |          0 |         53 |          1 |         54 |
+| e:\project-C++\CPPlearning\STLStudy\vectorTest.cpp                                 | C++          |          0 |        242 |          2 |        244 |
+| e:\project-C++\CPPlearning\STL_Algorithm\ArithGen.cpp                              | C++          |        122 |         12 |          0 |        134 |
+| e:\project-C++\CPPlearning\STL_Algorithm\ErgodicALG.cpp                            | C++          |          0 |         68 |          0 |         68 |
+| e:\project-C++\CPPlearning\STL_Algorithm\FindALG.cpp                               | C++          |          0 |        185 |          2 |        187 |
+| e:\project-C++\CPPlearning\STL_Algorithm\commen.hpp                                | C++          |         69 |          0 |          1 |         70 |
+| e:\project-C++\CPPlearning\STL_Algorithm\random_shuffe.cpp                         | C++          |          0 |        146 |          0 |        146 |
+| e:\project-C++\CPPlearning\SpeechContestSystem\Speaker.hpp                         | C++          |         41 |          0 |          0 |         41 |
+| e:\project-C++\CPPlearning\SpeechContestSystem\SpeechContestManSys.cpp             | C++          |         34 |          1 |          2 |         37 |
+| e:\project-C++\CPPlearning\SpeechContestSystem\SpeechManager.cpp                   | C++          |        310 |         29 |          4 |        343 |
+| e:\project-C++\CPPlearning\SpeechContestSystem\SpeechManager.h                     | C++          |         46 |          0 |          0 |         46 |
+| e:\project-C++\CPPlearning\StudentFile.txt                                         | TXT          |          7 |          0 |          1 |          8 |
+| e:\project-C++\CPPlearning\TeacherFile.txt                                         | TXT          |          1 |          0 |          1 |          2 |
+| e:\project-C++\CPPlearning\TemplateLearning\ClassTemplate.cpp                      | C++          |         85 |         14 |          1 |        100 |
+| e:\project-C++\CPPlearning\TemplateLearning\ClasstempInherit.cpp                   | C++          |          0 |        104 |          3 |        107 |
+| e:\project-C++\CPPlearning\TemplateLearning\Common_Template.cpp                    | C++          |          0 |        155 |          2 |        157 |
+| e:\project-C++\CPPlearning\TemplateLearning\FunctionTemplate.cpp                   | C++          |          0 |         56 |          1 |         57 |
+| e:\project-C++\CPPlearning\TemplateLearning\Sort_Template.cpp                      | C++          |          0 |        156 |          3 |        159 |
+| e:\project-C++\CPPlearning\TemplateLearning\example.cpp                            | C++          |          0 |        100 |          1 |        101 |
+| e:\project-C++\CPPlearning\TemplateLearning\example.hpp                            | C++          |        376 |         18 |          7 |        401 |
+| e:\project-C++\CPPlearning\TestFile.txt                                            | TXT          |          6 |          0 |          2 |          8 |
+| e:\project-C++\CPPlearning\class_learn\circle.cpp                                  | C++          |         28 |          0 |          1 |         29 |
+| e:\project-C++\CPPlearning\class_learn\circle.h                                    | C++          |         16 |          2 |          6 |         24 |
+| e:\project-C++\CPPlearning\class_learn\person.cpp                                  | C++          |          0 |         26 |          5 |         31 |
+| e:\project-C++\CPPlearning\class_learn\point.cpp                                   | C++          |         17 |          0 |          0 |         17 |
+| e:\project-C++\CPPlearning\class_learn\point.h                                     | C++          |         15 |          1 |          6 |         22 |
+| e:\project-C++\CPPlearning\class_learn\structure_fun.cpp                           | C++          |          0 |         68 |          7 |         75 |
+| e:\project-C++\CPPlearning\class_learn\test_circle.cpp                             | C++          |         36 |          2 |          2 |         40 |
+| e:\project-C++\CPPlearning\epmFile.txt                                             | TXT          |          1 |          0 |          1 |          2 |
+| e:\project-C++\CPPlearning\friend\good_friend.cpp                                  | C++          |         79 |          3 |          7 |         89 |
+| e:\project-C++\CPPlearning\inherit_learning\inherit.cpp                            | C++          |          0 |        124 |          0 |        124 |
+| e:\project-C++\CPPlearning\inherit_learning\inherit_manner.cpp                     | C++          |          0 |        149 |          7 |        156 |
+| e:\project-C++\CPPlearning\inherit_learning\multiInherit.cpp                       | C++          |          0 |         99 |          9 |        108 |
+| e:\project-C++\CPPlearning\inherit_learning\multi_multi_inherit.cpp                | C++          |          0 |         37 |          0 |         37 |
+| e:\project-C++\CPPlearning\naworkAuthtic.sh                                        | Shell Script |         32 |          0 |          1 |         33 |
+| e:\project-C++\CPPlearning\polymorphic\ComputerAssembly.cpp                        | C++          |        125 |          6 |          3 |        134 |
+| e:\project-C++\CPPlearning\polymorphic\PureDestruction.cpp                         | C++          |          0 |         93 |          5 |         98 |
+| e:\project-C++\CPPlearning\polymorphic\PureVirtualFunctions.cpp                    | C++          |          0 |         37 |          2 |         39 |
+| e:\project-C++\CPPlearning\polymorphic\caculator.cpp                               | C++          |          0 |        112 |          2 |        114 |
+| e:\project-C++\CPPlearning\polymorphic\drinkMading.cpp                             | C++          |          0 |         88 |          1 |         89 |
+| e:\project-C++\CPPlearning\polymorphic\polymorphic.cpp                             | C++          |          0 |         66 |          1 |         67 |
+| e:\project-C++\CPPlearning\reference_learn\refer_learn.cpp                         | C++          |        133 |         40 |          1 |        174 |
+| e:\project-C++\CPPlearning\speech.csv                                              | CSV          |          0 |          0 |          1 |          1 |
+| e:\project-C++\CPPlearning\speechRecord.csv                                        | CSV          |          0 |          0 |          1 |          1 |
+| e:\project-C++\CPPlearning\struct-study\reference-test.cpp                         | C++          |          0 |         21 |          1 |         22 |
+| e:\project-C++\CPPlearning\struct-study\struct-array copy.cpp                      | C++          |          0 |         32 |          2 |         34 |
+| e:\project-C++\CPPlearning\struct-study\struct-array.cpp                           | C++          |          0 |         26 |          1 |         27 |
+| e:\project-C++\CPPlearning\struct-study\struct-first.cpp                           | C++          |         51 |         14 |          4 |         69 |
+| e:\project-C++\CPPlearning\test.xsl                                                | XSL          |          3 |          0 |          1 |          4 |
+| e:\project-C++\CPPlearning\text.txt                                                | TXT          |          6 |          0 |          1 |          7 |
+| e:\project-C++\CPPlearning\workTime.txt                                            | TXT          |          4 |          0 |          0 |          4 |
+| Total                                                                              |              |      4,623 |      4,569 |        197 |      9,389 |
++------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
