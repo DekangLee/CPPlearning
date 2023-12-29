@@ -72,5 +72,6 @@
     "typeindex": "cpp",
     "valarray": "cpp"
   },
-  "cmake.sourceDirectory": "C:/Users/Administrator/Desktop/project-C++/CPPlearning/RoomReservationSystem"
+  "cmake.sourceDirectory": "C:/Users/Administrator/Desktop/project-C++/CPPlearning/RoomReservationSystem",
+  "git.useEditorAsCommitInput": false
 }
