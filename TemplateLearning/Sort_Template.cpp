@@ -4,8 +4,6 @@
 // #include <cstdlib> 
 // using namespace std;
 // const int MAXSIZE = 10;
-// // 实现对通用的数组排序
-// // 使用选择排序
 // template <class T>
 // void mySwap(T &a, T &b)
 // {
@@ -14,9 +12,8 @@
 //     b = temp;
 // }
 // template <class T>
-// void mySort(T Arry[], int lenth) // 选择排序
+// void mySort(T Arry[], int lenth) 
 // {
-//      // 最大值的下标
 //     for (int i = 0; i < lenth; i++)
 //     {
 //         int max = i;
@@ -42,41 +39,41 @@
 //     }
 //     cout << endl;
 // }
-// int part(int* r, int low, int hight)  //划分函数
+// int part(int* r, int low, int hight)  
 // {
-// 	int i = low, j = hight, pivot = r[low]; //基准元素
+// 	int i = low, j = hight, pivot = r[low]; 
 // 	while (i < j)
 // 	{
-// 		while (i<j && r[j]>pivot) //从右向左开始找一个 小于等于 pivot的数值
+// 		while (i<j && r[j]>pivot) 
 // 		{
 // 			j--;
 // 		}
 // 		if (i < j)
 // 		{
-// 			mySwap(r[i++], r[j]);  //r[i]和r[j]交换后 i 向右移动一位
+// 			mySwap(r[i++], r[j]);  
 // 		}
-// 		while (i < j && r[i] <= pivot) //从左向右开始找一个 大于 pivot的数值
+// 		while (i < j && r[i] <= pivot) 
 // 		{
 // 			i++;
 // 		}
 // 		if (i < j)
 // 		{
-// 			mySwap(r[i], r[j--]);  //r[i]和r[j]交换后 i 向左移动一位
+// 			mySwap(r[i], r[j--]); 
 // 		}
 // 	}
-// 	return i;  //返回最终划分完成后基准元素所在的位置
+// 	return i;  
 // }
 // void Quicksort(int* r, int low, int hight)
 // {
 // 	int mid;
 // 	if (low < hight)
 // 	{
-// 		mid = part(r, low, hight);  // 返回基准元素位置
-// 		Quicksort(r, low, mid - 1); // 左区间递归快速排序
-// 		Quicksort(r, mid+1, hight); // 右区间递归快速排序
+// 		mid = part(r, low, hight);  
+// 		Quicksort(r, low, mid - 1); 
+// 		Quicksort(r, mid+1, hight); 
 // 	}
 // }
-// template <class T> // 快速排序（使用递归调用数据量较大时会造成堆栈溢出）
+// template <class T>
 // void myQSort(T Array[], int start, int end)
 // {
 //     if (start >= end)
@@ -118,11 +115,11 @@
 //     return a + b;
 // }
 // template <class T>
-// void Genetate(T *a,int n,int l,int r)//生成范围在l~r的随机数 
+// void Genetate(T *a,int n,int l,int r)
 // {
-// 	srand(time(0));  //设置时间种子
+// 	srand(time(0));  
 // 	for(int i=0;i<n;i++){
-// 		a[i]=rand()%(r-l+1)+l;//生成区间r~l的随机数 
+// 		a[i]=rand()%(r-l+1)+l;
 // 	}
 // }
 // void test01()
@@ -147,12 +144,12 @@
 // int main()
 // {
 //     clock_t start_time, end_time;
-//     start_time = clock(); // 获取开始执行时间
+//     start_time = clock(); 
 //     test01();
 //     // test02();
 //     end_time = clock();
 //     double Times = (double)(end_time - start_time) / CLOCKS_PER_SEC;
-//     cout << "程序运行时间：" << Times << "s" << endl;
+//     cout << "杩愯鏃堕棿" << Times << "s" << endl;
 //     system("pause");
 
 //     return 1;
