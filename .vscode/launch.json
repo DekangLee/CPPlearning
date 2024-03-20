@@ -13,9 +13,9 @@
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
-            "externalConsole": true,
+            "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "E:\\gcc\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "E:\\MinGW\\posix_seh\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",

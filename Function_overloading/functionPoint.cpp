@@ -1,3 +1,13 @@
+/*
+ * @Author: dekangLee dekang579@gmail.com
+ * @Date: 2023-12-29 08:56:05
+ * @LastEditors: dekangLee dekang579@gmail.com
+ * @LastEditTime: 2024-03-14 14:45:41
+ * @FilePath: \CPPlearning\Function_overloading\functionPoint.cpp
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by  dekang579@gmail.com, All Rights Reserved. 
+ */
 #include <stdio.h>
 #include <iostream>
 int Max(int, int); // 函数声明
@@ -17,7 +27,6 @@ int main(void)
     // printf("a = %d\nb = %d\nmax = %d\n", a, b, c);
     double (*a)(double,double) = add;
     std::cout<<caculate(1.0,2.0,multi)<<std::endl;
-    system("pause");
     return 0;
 }
 int Max(int x, int y) // 定义Max函数
