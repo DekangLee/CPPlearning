@@ -10,7 +10,7 @@
                 "${fileDirname}\\*.cpp",
                 "-o",
                 "${fileDirname}\\output\\${fileBasenameNoExtension}.exe",
-                "-fexec-charset=GBK"
+                "-fexec-charset=utf-8"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"

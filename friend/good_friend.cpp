@@ -7,6 +7,7 @@ class Good_friend
 {
 public:
     Good_friend();
+    
     ~Good_friend();
     Good_friend(const Good_friend &f1);
     void visit();
